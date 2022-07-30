@@ -1,18 +1,18 @@
 
-### Olá! Meu nome é Jhonatha, sou novo no GitHub🚓
+### Olá! Meu nome é X, sou novo no GitHub🚓
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/jhonatha_nunes/)
+)](linkcomhttps://aqui/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/jhonatha192/)
+)](linkcomhttps://aqui/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/OfcJhonatha/)
+)](linkcomhttps://aqui/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-)](https://www.twitch.tv/ijhonn_/)
+)](linkcomhttps://aqui/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UC611XtNxnJU_s65taBHJIgw)
+)](linkcomhttps://aqui)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-)](https://discordapp.com/users/345724192601276417)
+)](linkcomhttps://aqui)
 
 
 ![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iJhonN&show_icons=true&theme=tokyonight)
